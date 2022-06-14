@@ -1,6 +1,6 @@
 # ADS_vetoresAeB
 Exercício de vetores - A&amp;B
-
+#
  - Inicio
   - x = 0
   - Enquanto x<=5 Faca
