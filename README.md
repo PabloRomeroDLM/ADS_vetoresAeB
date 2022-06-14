@@ -15,4 +15,4 @@ Exercício de vetores - A&amp;B
    - Mostrar na tela o valor de C
  - FIM
 
-![isso é uma imagem](
+![isso é uma imagem](https://github.com/PabloRomeroDLM/ADS_vetoresAeB/blob/main/vetorAeB.png)
